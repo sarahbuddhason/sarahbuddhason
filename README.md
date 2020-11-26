@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hello 👋! I'm Sarah :)
+
+(she/her)
+
+I'm a second-year Engineering Physics student at the University of British Columbia. Next summer, I'll be joining Apple as a Software Engineering intern for the iOS Accessibility team in Cupertino, CA!
+
+In my spare time, you can find me learning about accessibility, planning socially distanced picnics with friends, and doom-scrolling on social media.
 
 <!--
 **sarahbuddhason/sarahbuddhason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
