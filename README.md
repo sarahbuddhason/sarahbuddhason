@@ -2,7 +2,7 @@
 
 (she/her)
 
-I'm a second-year Engineering Physics student at the University of British Columbia. Next summer, I'll be joining Apple as a Software Engineering intern for the iOS Accessibility team in Cupertino, CA!
+I'm a second-year Engineering Physics student at the University of British Columbia.
 
 In my spare time, you can find me learning about accessibility, planning socially distanced picnics with friends, and doom-scrolling on social media.
 
