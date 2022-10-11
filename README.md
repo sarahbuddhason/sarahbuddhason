@@ -2,7 +2,7 @@
 
 (she/her)
 
-I'm an Engineering Physics student at the University of British Columbia.
+I'm a Computer Science student at the University of British Columbia.
 <!--
 **sarahbuddhason/sarahbuddhason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
