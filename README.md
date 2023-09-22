@@ -1,6 +1,13 @@
-### Hello 👋! I'm Sarah :)
+   .+------+     +------+     +------+     +------+     +------+.
+ .' |    .'|    /|     /|     |      |     |\     |\    |`.    | `.
++---+--+'  |   +-+----+ |     +------+     | +----+-+   |  `+--+---+
+|   |  |   |   | |    | |     |      |     | |    | |   |   |  |   |
+|  ,+--+---+   | +----+-+     +------+     +-+----+ |   +---+--+   |
+|.'    | .'    |/     |/      |      |      \|     \|    `. |   `. |
++------+'      +------+       +------+       +------+      `+------+
 
-(she/her)
+studying comp vis, teaching math, and making systems accessible
+
 <!--
 **sarahbuddhason/sarahbuddhason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
